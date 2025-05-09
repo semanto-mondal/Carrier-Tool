@@ -2,13 +2,13 @@
 
 **Carrier-Tool** is an intelligent CV analysis assistant built using **CrewAI** and **RAG (Retrieval-Augmented Generation)** techniques. Designed with a multi-agent architecture, it automates your resume review, skill extraction, improvement suggestions, and job recommendations — all in one seamless flow.
 
-Whether you're preparing your CV for job hunting or just want to level up your personal brand, Carrier-Tool brings structured AI-driven insights right to your fingertips.
+This is not the best model out there, but this can be used as a starting point or idea which can be improvised in a better way.
 
 ---
 
 ## 🧠 How It Works
 
-The system runs a sequence of specialized agents, each responsible for a unique task:
+The system runs a sequence of specialised agents, each responsible for a unique task:
 
 1. **CV Analysis Agent** – Reviews and interprets your uploaded CV.
 2. **Skill Extraction Agent** – Identifies key and missing skills relevant to your profile.
